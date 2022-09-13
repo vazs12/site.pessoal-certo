@@ -1,0 +1,94 @@
+body {
+    padding-top: 8rem;
+    font-family: 'Open Sans', sans-serif;
+}
+nav ul li a {
+    color: #666!important;
+    font-size: 1.2rem;
+    text-align: right;
+    text-transform: uppercase;
+	text-decoration: none;
+}
+nav ul li a:hover {
+    text-shadow: 1px 1px 5px #CCC;
+}
+.nav-link{
+    padding-left: 5rem!important;
+}
+#perfil{
+    background-color: 		#DF73FF ;
+    text-align: center;
+	border: 1px solid black;
+	width: 13650px;
+    padding: 0px 166px;
+    max-width: 100%;
+}
+#destaques{
+    background: #FFF;
+    border: 1px solid black;
+    width: 978px;
+    height: 330px;
+}
+.cols {
+    width: 325px;
+    padding: 30px 3px 30px 3px;
+    float: left;
+    text-align: center;
+}
+h1{ 
+    font-family: 'Kaushan Script';
+    font-size: 30px;
+    text-align: center    ;
+    background-color:		#DF73FF;
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase; 
+    background-color:	#DF73FF;
+    
+}
+h3{
+    font-family: agency fb;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+h4{
+    font-family: 'Kaushan Script';
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.nav-link{
+    padding-left: 5rem!important;
+}
+#tudo{
+    width: 980px;
+    border: 1px solid #555;
+    margin: auto; 
+}
+#fotoYasmin{
+        border-radius: 50%;
+}
+#redes{
+    text-align: center;
+    
+
+}
+
+footer{
+    font-family:  'Kaushan Script';
+    background-color: #DF73FF;
+    text-align: center;
+	border: 1px solid black;
+    padding: 0px 166px;
+    width: 978px;
+    border: 1px solid black;
+    margin: auto; 
+}
